@@ -1,0 +1,4 @@
+# Blackout window inspired by the Dec 20 SF outage (public reporting)
+blackout_start,blackout_end
+2025-12-20 09:45,2025-12-20 23:00
+
