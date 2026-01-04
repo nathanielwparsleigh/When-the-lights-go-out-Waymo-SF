@@ -1,4 +1,4 @@
-# When the Lights Go Out  
+# When the Lights Go Out Waymo SF 
 ## The cost of delayed blackout detection in autonomous EV fleets
 
 ---
